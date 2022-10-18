@@ -10,14 +10,6 @@ let arr = [
         ]
     },
     {
-        name: "Folder 2",
-        folders: [
-            {name: "Subfolder 4"},
-            {name: "Subfolder 5"},
-            {name: "Subfolder 6"},
-        ]
-    },
-    {
         name: "Folder 3",
         folders: [
             {name: "Subfolder 7"},
